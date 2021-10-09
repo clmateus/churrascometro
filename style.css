@@ -130,6 +130,10 @@ button{
 
 
 @media screen and (max-width: 600px) {
+    body{
+        background-color: #531cb3;
+    }
+
 	#leftcontent{
         display:none;
     }
