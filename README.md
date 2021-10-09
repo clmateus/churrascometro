@@ -1,4 +1,4 @@
-# Churrascometro
+# Churrascômetro
 
 Está organizando aquela churrascada com os amigos mas não sabe o quanto de carne precisa comprar?
 
