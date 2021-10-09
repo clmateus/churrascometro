@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Churrascômetro</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <div id="container">
+        <div id="leftcontent">
+            <img src="assets/bbcgif.gif">
+        </div>
+        <div id="rightcontent">
+            <div id="form">
+                <h1 id="tit">CHURRASCÔMETRO</h1>
+                <input type="number" placeholder="Adultos" class="inp" id="adt" min="1"><br>
+                <input type="number" placeholder="Crianças" class="inp" id="cri" min="1"><br>
+                <input type="number" placeholder="Duração (Horas)" class="inp" id="tmp" min="1"><br>
+                <button id="sub" onclick="calc()"> CALCULAR </button><br><br>
+                <div id="res"></div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
