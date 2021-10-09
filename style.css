@@ -129,7 +129,7 @@ button{
 }
 
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
 	#leftcontent{
         display:none;
     }
@@ -150,7 +150,7 @@ button{
     }
 
     #tit{
-        font-size:2.7vh;
+        font-size:5vw;
         text-align: center;
         position: relative;
     }
