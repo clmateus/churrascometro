@@ -4,7 +4,7 @@ Está organizando aquela churrascada com os amigos mas não sabe o quanto de car
 
 Conheça o CHURRASCÔMETRO!
 
-![image of churrascometro](assets/sample.jpeg)
+![image of churrascometro](assets/sample.jpg)
 
 O churrascômetro é um site que calcula automaticamente as quantidades de carne, bebidas e bebidas alcoólicas serão consumidas baseado no número de participantes e também no tempo total do churrasco.
 
