@@ -1,6 +1,6 @@
 # Churrascômetro
 
-🔗 ACESSE ESSE PROJETO 👉: https://clmateus.github.io/churrascometro/
+🔗 ACESSE ESSE PROJETO 👉 https://clmateus.github.io/churrascometro/
 
 Está organizando aquela churrascada com os amigos mas não sabe o quanto de carne precisa comprar?
 
@@ -20,7 +20,7 @@ Chega de faltas, sobras e desperdícios!
 
 # (EN) BARBECUE-METER
 
-🔗 ACCESS THIS PROJECT 👉: https://clmateus.github.io/churrascometro/
+🔗 ACCESS THIS PROJECT 👉 https://clmateus.github.io/churrascometro/
 
 Are you planning a barbecue with your friends but don't know how many meat you need to buy?
 
