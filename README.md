@@ -1,5 +1,7 @@
 # Churrascômetro
 
+🔗 ACESSE ESSE PROJETO 👉: https://clmateus.github.io/churrascometro/
+
 Está organizando aquela churrascada com os amigos mas não sabe o quanto de carne precisa comprar?
 
 Conheça o CHURRASCÔMETRO!
@@ -15,3 +17,17 @@ Além disso, para churrascos com mais de 6 horas de duração a média aumenta p
 Use já o churrascômetro, e garanta a quantidade certa de suprimentos para o seu churrasco!
 
 Chega de faltas, sobras e desperdícios!
+
+(EN) BARBECUE-METER
+
+🔗 ACCESS THIS PROJECT 👉: https://clmateus.github.io/churrascometro/
+
+Are you planning a barbecue with your friends but don't know how many meat you need to buy?
+
+Meet the BARBECUE-METER!
+
+The barbecue-meter is a web site that automatically calculates the quantities of meat, drinks and alcoholic beverages that will be consumed based in the number of participants and the duration of the barbecue.
+
+The logic used assumes that each adult ingest 400 grams of meat, 1.2 liters of alcoholic beverages and 1 liter of other drinks. For the kids, ingests the half of those values, and of course, don't drink alcohol.
+
+Futhermore, 
