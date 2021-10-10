@@ -28,6 +28,8 @@ Meet the BARBECUE-METER!
 
 The barbecue-meter is a web site that automatically calculates the quantities of meat, drinks and alcoholic beverages that will be consumed based in the number of participants and the duration of the barbecue.
 
-The logic used assumes that each adult ingest 400 grams of meat, 1.2 liters of alcoholic beverages and 1 liter of other drinks. For the kids, ingests the half of those values, and of course, don't drink alcohol.
+The logic used assumes that each adult ingest on avarage 400 grams of meat, 1.2 liters of alcoholic beverages and 1 liter of other drinks. For the kids, ingests the half of those values, and of course, don't drink alcohol.
 
-Futhermore, 
+Futhermore, for barbecues with more than 6 hours of duration, the avarage increases to 450 grams of meat, 2 liters of alcoholic beverages and 1.5 liters of other drinks.
+
+Start using the barbecue-meter now, and grants the right amount of supplies for your barbecue!
