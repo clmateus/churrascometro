@@ -18,7 +18,7 @@ Use já o churrascômetro, e garanta a quantidade certa de suprimentos para o se
 
 Chega de faltas, sobras e desperdícios!
 
-(EN) BARBECUE-METER
+# (EN) BARBECUE-METER
 
 🔗 ACCESS THIS PROJECT 👉: https://clmateus.github.io/churrascometro/
 
